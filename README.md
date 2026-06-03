@@ -3,6 +3,20 @@ Commercial &amp; Logistics Intelligence Dashboard for Dangote Cement (2024)
 
 I worked through the full data analytics pipeline — from raw transactional data to actionable business insights:
 
+## 📷 Screenshots
+
+### Dashboard
+![Dashboard](IMG_8944.png)
+
+### Pivot Tables & Charts
+![Pivot Analysis](IMG_8981.png)
+
+### Raw Data
+![Raw Data](IMG_8980.png)
+
+### Cleaned Data
+![Cleaned Data](IMG_8978.png)
+
 
 🔹 Data Cleaning & Preprocessing — handled missing values, formatted date columns, and standardized categorical fields across 500+ transactions
 🔹 Exploratory Data Analysis — calculated key statistics including total revenue (₦73.62M), total profit (₦20.12M), fulfillment rate, and regional breakdowns
